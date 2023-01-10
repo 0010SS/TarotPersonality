@@ -6,31 +6,31 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.TarotPersonality PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="wwwroot/TarotDescriptions/TressPentacles0deg.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="wwwroot/TarotDescriptions/TressPentacles180deg.json">
     <Files>
-      <File FileName="Pages/Index.razor" Line="128" Column="116" />
-      <File FileName="wwwroot/index.html" Line="17" Column="5" />
-      <File FileName="wwwroot/TarotDescriptions/QueenPentacles180deg.json" Line="1" Column="1" />
-      <File FileName="wwwroot/TarotDescriptions/QueenPentacles0deg.json" Line="1" Column="1" />
-      <File FileName="wwwroot/TarotDescriptions/QueenSwords0deg.json" Line="1" Column="1" />
-      <File FileName="wwwroot/TarotDescriptions/QueenSwords180deg.json" Line="1" Column="1" />
-      <File FileName="wwwroot/TarotDescriptions/QueenWands0deg.json" Line="1" Column="1" />
-      <File FileName="wwwroot/TarotDescriptions/TressPentacles180deg.json" Line="1" Column="1" />
+      <File FileName="Pages/Index.razor" />
+      <File FileName="wwwroot/index.html" />
+      <File FileName="wwwroot/TarotDescriptions/QueenPentacles180deg.json" />
+      <File FileName="wwwroot/TarotDescriptions/QueenPentacles0deg.json" />
+      <File FileName="wwwroot/TarotDescriptions/QueenSwords0deg.json" />
+      <File FileName="wwwroot/TarotDescriptions/QueenSwords180deg.json" />
+      <File FileName="wwwroot/TarotDescriptions/QueenWands0deg.json" />
+      <File FileName="wwwroot/TarotDescriptions/TressPentacles180deg.json" Line="3" Column="24" />
       <File FileName="wwwroot/TarotDescriptions/TressPentacles0deg.json" Line="1" Column="1" />
-      <File FileName="wwwroot/TarotDescriptions/TressSwords0deg.json" Line="1" Column="1" />
-      <File FileName="wwwroot/TarotDescriptions/TressSwords180deg.json" Line="1" Column="1" />
-      <File FileName="wwwroot/TarotDescriptions/TressWands0deg.json" Line="1" Column="1" />
-      <File FileName="wwwroot/TarotDescriptions/TressWands180deg.json" Line="1" Column="1" />
-      <File FileName="wwwroot/TarotDescriptions/KingCups0deg.json" Line="1" Column="1" />
-      <File FileName="wwwroot/TarotDescriptions/KingCups180deg.json" Line="1" Column="1" />
-      <File FileName="wwwroot/TarotDescriptions/KingPentacles0deg.json" Line="1" Column="1" />
-      <File FileName="wwwroot/TarotDescriptions/KingPentacles180deg.json" Line="1" Column="1" />
-      <File FileName="wwwroot/TarotDescriptions/KingSwords0deg.json" Line="1" Column="1" />
-      <File FileName="wwwroot/TarotDescriptions/KingSwords180deg.json" Line="1" Column="1" />
-      <File FileName="wwwroot/TarotDescriptions/KingWands0deg.json" Line="1" Column="1" />
-      <File FileName="wwwroot/TarotDescriptions/KingWands180deg.json" Line="1" Column="1" />
-      <File FileName="wwwroot/TarotDescriptions/KnightCups0deg.json" Line="1" Column="1" />
-      <File FileName="wwwroot/TarotDescriptions/KnightCups180deg.json" Line="1" Column="1" />
+      <File FileName="wwwroot/TarotDescriptions/TressSwords0deg.json" />
+      <File FileName="wwwroot/TarotDescriptions/TressSwords180deg.json" />
+      <File FileName="wwwroot/TarotDescriptions/TressWands0deg.json" />
+      <File FileName="wwwroot/TarotDescriptions/TressWands180deg.json" />
+      <File FileName="wwwroot/TarotDescriptions/KingCups0deg.json" />
+      <File FileName="wwwroot/TarotDescriptions/KingCups180deg.json" />
+      <File FileName="wwwroot/TarotDescriptions/KingPentacles0deg.json" />
+      <File FileName="wwwroot/TarotDescriptions/KingPentacles180deg.json" />
+      <File FileName="wwwroot/TarotDescriptions/KingSwords0deg.json" />
+      <File FileName="wwwroot/TarotDescriptions/KingSwords180deg.json" />
+      <File FileName="wwwroot/TarotDescriptions/KingWands0deg.json" />
+      <File FileName="wwwroot/TarotDescriptions/KingWands180deg.json" />
+      <File FileName="wwwroot/TarotDescriptions/KnightCups0deg.json" />
+      <File FileName="wwwroot/TarotDescriptions/KnightCups180deg.json" />
       <File FileName="wwwroot/TarotDescriptions/KnightPentacles0deg.json" Line="1" Column="1" />
       <File FileName="wwwroot/TarotDescriptions/KnightPentacles180deg.json" Line="1" Column="1" />
       <File FileName="wwwroot/TarotDescriptions/KnightSwords0deg.json" Line="1" Column="1" />
@@ -46,18 +46,7 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TarotPersonality" expanded="True">
-            <Node name="TarotPersonality" expanded="True">
-              <Node name="Pages" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="Shared" expanded="True" />
-              <Node name="wwwroot" expanded="True">
-                <Node name="TarotDescriptions" expanded="True">
-                  <Node name="TressPentacles0deg.json" selected="True" />
-                </Node>
-              </Node>
-            </Node>
-          </Node>
+          <Node name="TarotPersonality" expanded="True" />
         </State>
       </Pad>
     </Pads>

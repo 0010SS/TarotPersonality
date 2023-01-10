@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets/App.css"
     },
     {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/CardBack.jpg",
+      "PackagePath": "staticwebassets/CardBack.jpg"
+    },
+    {
       "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/LeftArrow.png",
       "PackagePath": "staticwebassets/LeftArrow.png"
     },

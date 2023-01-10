@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "I+VGaOfkVUphLPaNadujAI02eMPt9HW9MYOAKSGQz0U=",
+  "Hash": "PYwXqMZl+qgIZ/CvwnYe9Chy2zNph7NdocMYM63df9c=",
   "Source": "TarotPersonality",
   "BasePath": "/",
   "Mode": "Root",
@@ -6866,6 +6866,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/App.css"
+    },
+    {
+      "Identity": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/CardBack.jpg",
+      "SourceId": "TarotPersonality",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "CardBack.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/CardBack.jpg"
     },
     {
       "Identity": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/css/app.css",
