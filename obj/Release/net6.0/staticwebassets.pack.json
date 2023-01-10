@@ -1,0 +1,317 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/bin/Release/net6.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/obj/Release/net6.0/build-gz/W4XDTj93.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/obj/Release/net6.0/scopedcss/bundle/TarotPersonality.styles.css",
+      "PackagePath": "staticwebassets/TarotPersonality.styles.css"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/App.css",
+      "PackagePath": "staticwebassets/App.css"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/LeftArrow.png",
+      "PackagePath": "staticwebassets/LeftArrow.png"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/QRcode.jpeg",
+      "PackagePath": "staticwebassets/QRcode.jpeg"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/RightArrow.png",
+      "PackagePath": "staticwebassets/RightArrow.png"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/StarBackground.jpg",
+      "PackagePath": "staticwebassets/StarBackground.jpg"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/KingCups0deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/KingCups0deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/KingCups180deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/KingCups180deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/KingPentacles0deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/KingPentacles0deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/KingPentacles180deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/KingPentacles180deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/KingSwords0deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/KingSwords0deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/KingSwords180deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/KingSwords180deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/KingWands0deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/KingWands0deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/KingWands180deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/KingWands180deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/KnightCups0deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/KnightCups0deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/KnightCups180deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/KnightCups180deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/KnightPentacles0deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/KnightPentacles0deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/KnightPentacles180deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/KnightPentacles180deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/KnightSwords0deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/KnightSwords0deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/KnightSwords180deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/KnightSwords180deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/KnightWands0deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/KnightWands0deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/KnightWands180deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/KnightWands180deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/QueenCups0deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/QueenCups0deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/QueenCups180deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/QueenCups180deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/QueenPentacles0deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/QueenPentacles0deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/QueenPentacles180deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/QueenPentacles180deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/QueenSwords0deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/QueenSwords0deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/QueenSwords180deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/QueenSwords180deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/QueenWands0deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/QueenWands0deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/QueenWands180deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/QueenWands180deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/TressCups0deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/TressCups0deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/TressCups180deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/TressCups180deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/TressPentacles0deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/TressPentacles0deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/TressPentacles180deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/TressPentacles180deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/TressSwords0deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/TressSwords0deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/TressSwords180deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/TressSwords180deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/TressWands0deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/TressWands0deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotDescriptions/TressWands180deg.json",
+      "PackagePath": "staticwebassets/TarotDescriptions/TressWands180deg.json"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotImages/.DS_Store",
+      "PackagePath": "staticwebassets/TarotImages/.DS_Store"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotImages/KingCups.jpeg",
+      "PackagePath": "staticwebassets/TarotImages/KingCups.jpeg"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotImages/KingPentacles.jpeg",
+      "PackagePath": "staticwebassets/TarotImages/KingPentacles.jpeg"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotImages/KingSwords.jpeg",
+      "PackagePath": "staticwebassets/TarotImages/KingSwords.jpeg"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotImages/KingWands.jpeg",
+      "PackagePath": "staticwebassets/TarotImages/KingWands.jpeg"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotImages/KnightCups.jpeg",
+      "PackagePath": "staticwebassets/TarotImages/KnightCups.jpeg"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotImages/KnightPentacles.jpeg",
+      "PackagePath": "staticwebassets/TarotImages/KnightPentacles.jpeg"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotImages/KnightSwords.jpeg",
+      "PackagePath": "staticwebassets/TarotImages/KnightSwords.jpeg"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotImages/KnightWands.jpeg",
+      "PackagePath": "staticwebassets/TarotImages/KnightWands.jpeg"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotImages/QueenCups.jpeg",
+      "PackagePath": "staticwebassets/TarotImages/QueenCups.jpeg"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotImages/QueenPentacles.jpeg",
+      "PackagePath": "staticwebassets/TarotImages/QueenPentacles.jpeg"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotImages/QueenSwords.jpeg",
+      "PackagePath": "staticwebassets/TarotImages/QueenSwords.jpeg"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotImages/QueenWands.jpeg",
+      "PackagePath": "staticwebassets/TarotImages/QueenWands.jpeg"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotImages/TressCups.jpeg",
+      "PackagePath": "staticwebassets/TarotImages/TressCups.jpeg"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotImages/TressPentacles.jpeg",
+      "PackagePath": "staticwebassets/TarotImages/TressPentacles.jpeg"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotImages/TressSwords.jpeg",
+      "PackagePath": "staticwebassets/TarotImages/TressSwords.jpeg"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/TarotImages/TressWands.jpeg",
+      "PackagePath": "staticwebassets/TarotImages/TressWands.jpeg"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/flipcard.css",
+      "PackagePath": "staticwebassets/flipcard.css"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/hw/Desktop/Coding/NETs/TarotPersonality/TarotPersonality/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Release/net6.0/staticwebassets/msbuild.TarotPersonality.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net6.0/staticwebassets/msbuild.build.TarotPersonality.props",
+      "PackagePath": "build\\TarotPersonality.props"
+    },
+    {
+      "Id": "obj/Release/net6.0/staticwebassets/msbuild.buildMultiTargeting.TarotPersonality.props",
+      "PackagePath": "buildMultiTargeting\\TarotPersonality.props"
+    },
+    {
+      "Id": "obj/Release/net6.0/staticwebassets/msbuild.buildTransitive.TarotPersonality.props",
+      "PackagePath": "buildTransitive\\TarotPersonality.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

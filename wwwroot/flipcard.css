@@ -1,0 +1,38 @@
+﻿.card {
+    background-color: transparent;
+    width: 127px;
+    height: 210px;
+    perspective: 1000px;
+    display: inline-block;
+    margin-left: 1px;
+    margin-right: 1px;
+    border-radius: 25px;
+}
+
+.card-inner {
+    position: relative;
+    transform-origin: center;
+    width: 100%;
+    height: 100%;
+    transition: transform 1s;
+    transform-style: preserve-3d;
+}
+
+.card-front, .card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.card-front {
+    width: 124px;
+    height: 220px;
+}
+
+.card-back {
+    transform: rotateY(180deg) translateY(-43px) scale(0.8);
+    background: url("https://www.free-tarot-reading.net/img/card-back-sprite.jpg?v=2") -243px, 0px;
+    background-size: cover;
+}
