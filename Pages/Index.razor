@@ -279,6 +279,9 @@
     public DscLine[]? QueenDsc;
     public DscLine[]? TressDsc;
 
+    // indicators for whether the descriptions have been loaded
+    // public bool KingDscLoaded = false;
+
     // whether a card is being flipped
     public bool flipping = false;
 
@@ -386,7 +389,7 @@
         if (KingChosen && QueenChosen && TressChosen)
         {
             await Task.Delay(1000);
-            pageNum++; // switch to the next page
+            pageNum = 2; // switch to the next page
             banner = "揭晓结果..."; // change the banner's text
 
             KingCards.RemoveAll(card => { return card.flipped == false; }); // remove the unchosen cards from the list
