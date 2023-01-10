@@ -33,6 +33,6 @@
 
 .card-back {
     transform: rotateY(180deg) translateY(-43px) scale(0.8);
-    background: url("https://www.free-tarot-reading.net/img/card-back-sprite.jpg?v=2") -243px, 0px;
+    background: url("CardBack.jpg") -243px, 0px;
     background-size: cover;
 }
