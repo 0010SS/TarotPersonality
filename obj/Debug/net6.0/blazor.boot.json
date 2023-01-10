@@ -196,13 +196,13 @@
       "mscorlib.dll": "sha256-cx\/3nJhFns3tZhQNQOyiRyKJESKxOjLVufzWnri6KSA=",
       "netstandard.dll": "sha256-yWufW5W4SSfjocBcWTEDqnFwTd\/VYtLMc2Y9mPmlggc=",
       "System.Private.CoreLib.dll": "sha256-H009wzPwRoDZlwvpN4KLCsUwN7Y1AmjKB3PIEHA7ObQ=",
-      "TarotPersonality.dll": "sha256-\/TcCCLAIsG2ucZwPnBlBDBKSELfRHe1bCCO4V8xfkwk="
+      "TarotPersonality.dll": "sha256-HVckr72BfWueqfEuyGSvmmOfpQnetcBJOxHR0\/15Whs="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "TarotPersonality.pdb": "sha256-dbSqNP3yeAV9XsQLKQbVGB8jtFAvaP8PveNbI7oRojg="
+      "TarotPersonality.pdb": "sha256-7VnPOO\/0ah\/e7IzsMAER4\/BGG2HFacwi3EE3i5yZg2E="
     },
     "runtime": {
       "dotnet.6.0.11.c5ozbyulpm.js": "sha256-F30V+6jU3jwJYFZoLuwMAqzTiOXu6q7zGgOdjYBofDI=",

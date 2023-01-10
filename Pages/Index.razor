@@ -124,7 +124,9 @@
     }
     else if (pageNum == 2 && (KingDsc == null | QueenDsc == null | TressDsc == null))
     {
-        <p>Loading...</p>
+        <div style="display: flex; align-items: center; justify-content: center;">
+            <h1 class="font-medium leading-tight text-5xl mt-0 mb-2" style="color: #d3d3d3; margin-top: 50%">正在加载结果...</h1>
+        </div>
     }
     else if (pageNum == 2) // if the three cards haven't been chosen
     {
